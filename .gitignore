@@ -1,1 +1,4 @@
 *.csv
+lab6/data
+*.pt
+*.safetensors
